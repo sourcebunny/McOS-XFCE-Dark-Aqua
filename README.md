@@ -1,4 +1,4 @@
-# McOS-XFCE-Dark-Retro
+# McOS-XFCE-Dark-Aqua
 
 This is a fork of paullinuxthemer's McOS-CTLina-XFCE-Dark theme.
 
