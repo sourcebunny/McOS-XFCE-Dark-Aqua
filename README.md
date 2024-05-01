@@ -1,5 +1,7 @@
 # McOS-XFCE-Dark-Aqua
 
+<img src="images/preview.png" width="800" />
+
 This is a fork of paullinuxthemer's McOS-CTLina-XFCE-Dark theme.
 
 The theme has been modified to look more similar to Snow Leopard.
