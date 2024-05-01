@@ -1,17 +1,22 @@
 # McOS-XFCE-Dark-Aqua
 
-<img src="images/preview.png" width="800" />
+<img src="preview.jpg" width="800" />
 
-This is a fork of paullinuxthemer's McOS-CTLina-XFCE-Dark theme.
+This is a fork of paullinuxthemer's [McOS-CTLina-XFCE-Dark](https://github.com/paullinuxthemer/Mc-OS-themes) theme.
 
-The theme has been modified to look more similar to Snow Leopard.
+The theme has been modified to look more similar to Snow Leopard, except in dark mode.
 
-The XFWM4 window decorations and borders are based on [lenovox's Leopard-round](https://www.xfce-look.org/p/1015871) theme. I have modified those assets to be darker to match the McOS Dark theme.
+The XFWM4 window decorations and borders are based on lenovox's [Leopard-round](https://www.xfce-look.org/p/1015871) theme.
+
+I have modified the Leopard-round assets to be much darker, in order to match the McOS Dark theme.
 
 ## Disclaimer
 
-This is a gnome-theme that contains a modified GTKRC and GTK.CSS.  As such it licence is GPLv2, of which the downloaded file contains a copy.
+<details><summary><strong>Software Disclaimer</strong></summary>
 
+This is a gnome-theme that contains a modified GTKRC and GTK.CSS.
+
+As such it licence is GPLv2, of which the downloaded file contains a copy.
 
  GRAND GTK.CSS FILE is a modified GTK.CSS with each element its own settings  
  Created by PAULXFCE (2017)                              
@@ -29,3 +34,5 @@ This is a gnome-theme that contains a modified GTKRC and GTK.CSS.  As such it li
     You should have received a copy of the GNU General Public License along
     with this program; if not, write to the Free Software Foundation, Inc.,
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+</details>
